@@ -6,7 +6,7 @@ Templates for business cards.
 
 Video tutorial:  https://youtu.be/zjPZocWxJP4
 
-1. Prepare a table with data in CSV format in UTF-16 encoding. See example [src/Business Cards-1-UTF16.csv](src/Business Cards-1-UTF16.csv)
+1. Prepare a table with data in CSV format in UTF-16 encoding. See example `src/Business Cards-1-UTF16.csv`
 2. Open `src/idt-business-cards.indd` in InDesign
 3. Go to `Window` → `Utilities` → `Data Merge`
 4. In upper-right corver press “hamburger” menu and `Select Data Source…`
